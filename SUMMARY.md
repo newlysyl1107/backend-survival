@@ -7,5 +7,5 @@
 * [GitHub과 연동하기](/integration/integration-with-github.md)
   * [PR 날리기](/integration/pull-request.md)
 
-* [1️⃣. HTTP]
+* [1️⃣. HTTP](/HTTP/intro.md)
   * [HTTP의 이해](/HTTP/http.md)
